@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/scopedcss/projectbundle/MarryMeMarket.bundle.scp.css",
+      "PackagePath": "staticwebassets/MarryMeMarket.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/css/framework.css",
+      "PackagePath": "staticwebassets/css/framework.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/css/layout.css",
+      "PackagePath": "staticwebassets/css/layout.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/fonts/fontawesome-free/webfonts/index.html",
+      "PackagePath": "staticwebassets/fonts/fontawesome-free/webfonts/index.html"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/100x100.png",
+      "PackagePath": "staticwebassets/images/demo/100x100.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/348x261.png",
+      "PackagePath": "staticwebassets/images/demo/348x261.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/348x400.png",
+      "PackagePath": "staticwebassets/images/demo/348x400.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/546x356.png",
+      "PackagePath": "staticwebassets/images/demo/546x356.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/avatar.png",
+      "PackagePath": "staticwebassets/images/demo/avatar.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/backgrounds/01.png",
+      "PackagePath": "staticwebassets/images/demo/backgrounds/01.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/gallery/01.png",
+      "PackagePath": "staticwebassets/images/demo/gallery/01.png"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/imgl.gif",
+      "PackagePath": "staticwebassets/images/demo/imgl.gif"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/images/demo/imgr.gif",
+      "PackagePath": "staticwebassets/images/demo/imgr.gif"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/js/jquery.backtotop.js",
+      "PackagePath": "staticwebassets/js/jquery.backtotop.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/js/jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets/js/jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/js/jquery.mobilemenu.js",
+      "PackagePath": "staticwebassets/js/jquery.mobilemenu.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MarryMeMarket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MarryMeMarket.props",
+      "PackagePath": "build\\MarryMeMarket.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarryMeMarket.props",
+      "PackagePath": "buildMultiTargeting\\MarryMeMarket.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarryMeMarket.props",
+      "PackagePath": "buildTransitive\\MarryMeMarket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
