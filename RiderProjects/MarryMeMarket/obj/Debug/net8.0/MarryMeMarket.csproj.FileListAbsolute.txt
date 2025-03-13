@@ -131,9 +131,9 @@
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/scopedcss/bundle/MarryMeMarket.styles.css
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/scopedcss/projectbundle/MarryMeMarket.bundle.scp.css
-/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeM.26526954.Up2Date
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.dll
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/refint/MarryMeMarket.dll
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.pdb
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.genruntimeconfig.cache
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/ref/MarryMeMarket.dll
+/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.csproj.CopyComplete
