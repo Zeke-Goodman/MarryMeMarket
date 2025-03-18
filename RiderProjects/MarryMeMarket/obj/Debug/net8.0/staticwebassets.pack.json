@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/scopedcss/projectbundle/MarryMeMarket.bundle.scp.css",
-      "PackagePath": "staticwebassets/MarryMeMarket.bundle.scp.css"
+      "PackagePath": "staticwebassets/MarryMeMarket.cozed12s2t.bundle.scp.css"
     },
     {
       "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/css/framework.css",
@@ -371,6 +371,10 @@
     {
       "Id": "/Users/zekegoodman/RiderProjects/MarryMeMarket/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MarryMeMarket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MarryMeMarket.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -136,4 +136,8 @@
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.pdb
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.genruntimeconfig.cache
 /Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/ref/MarryMeMarket.dll
-/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeMarket.csproj.CopyComplete
+/Users/zekegoodman/RiderProjects/MarryMeMarket/bin/Debug/net8.0/MarryMeMarket.staticwebassets.endpoints.json
+/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/staticwebassets/msbuild.MarryMeMarket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/Debug/net8.0/MarryMeM.26526954.Up2Date
+/Users/zekegoodman/RiderProjects/MarryMeMarket/bin/Debug/net8.0/global.json
