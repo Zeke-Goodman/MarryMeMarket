@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarryMeMarket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd6125b2cf39961ed2ef9a692c77059241a41575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98bb1eb79f2fd1e372e8ef34f3d6abb6877a9948")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarryMeMarket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarryMeMarket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
