@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zekegoodman/RiderProjects/MarryMeMarket/MarryMeMarket.csproj": {}
+    "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/MarryMeMarket.csproj": {}
   },
   "projects": {
-    "/Users/zekegoodman/RiderProjects/MarryMeMarket/MarryMeMarket.csproj": {
+    "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/MarryMeMarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zekegoodman/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
+        "projectUniqueName": "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
         "projectName": "MarryMeMarket",
-        "projectPath": "/Users/zekegoodman/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
-        "packagesPath": "/Users/zekegoodman/.nuget/packages/",
-        "outputPath": "/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/",
+        "projectPath": "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
+        "packagesPath": "/Users/fieldingdemars/.nuget/packages/",
+        "outputPath": "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zekegoodman/.nuget/NuGet/NuGet.Config"
+          "/Users/fieldingdemars/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -92,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
