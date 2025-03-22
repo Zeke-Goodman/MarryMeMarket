@@ -6981,19 +6981,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/fieldingdemars/.nuget/packages/": {}
+    "/Users/zekegoodman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
+      "projectUniqueName": "/Users/zekegoodman/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
       "projectName": "MarryMeMarket",
-      "projectPath": "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
-      "packagesPath": "/Users/fieldingdemars/.nuget/packages/",
-      "outputPath": "/Users/fieldingdemars/RiderProjects/MarryMeMarket/RiderProjects/MarryMeMarket/obj/",
+      "projectPath": "/Users/zekegoodman/RiderProjects/MarryMeMarket/MarryMeMarket.csproj",
+      "packagesPath": "/Users/zekegoodman/.nuget/packages/",
+      "outputPath": "/Users/zekegoodman/RiderProjects/MarryMeMarket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/fieldingdemars/.nuget/NuGet/NuGet.Config"
+        "/Users/zekegoodman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -7011,7 +7011,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -7065,7 +7071,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -7074,7 +7080,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "MarryMeMarket depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.3) but Npgsql.EntityFrameworkCore.PostgreSQL 8.0.3 was not found. An approximate best match of Npgsql.EntityFrameworkCore.PostgreSQL 8.0.4 was resolved.",
+      "message": "MarryMeMarket depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.3) but Npgsql.EntityFrameworkCore.PostgreSQL 8.0.3 was not found. Npgsql.EntityFrameworkCore.PostgreSQL 8.0.4 was resolved instead.",
       "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net8.0"

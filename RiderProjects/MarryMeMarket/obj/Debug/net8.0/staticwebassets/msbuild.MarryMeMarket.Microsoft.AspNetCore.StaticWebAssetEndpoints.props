@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\layout.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9o1xa527lp"},{"Name":"integrity","Value":"sha256-Rxu4HWWM47qhJqgIHZefTL2Zao3ByCRPxB/OgeShXKk="},{"Name":"label","Value":"_content/MarryMeMarket/css/layout.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26881"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Rxu4HWWM47qhJqgIHZefTL2Zao3ByCRPxB/OgeShXKk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 19:38:39 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26881"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Rxu4HWWM47qhJqgIHZefTL2Zao3ByCRPxB/OgeShXKk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 17:15:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MarryMeMarket/css/layout.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\layout.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Rxu4HWWM47qhJqgIHZefTL2Zao3ByCRPxB/OgeShXKk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26881"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Rxu4HWWM47qhJqgIHZefTL2Zao3ByCRPxB/OgeShXKk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 19:38:39 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26881"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Rxu4HWWM47qhJqgIHZefTL2Zao3ByCRPxB/OgeShXKk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 17:15:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MarryMeMarket/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
@@ -324,6 +324,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1boaS/EwkacWANOCqzNKQIaC1TYUkrYv3CdZd80rffo="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28716"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221boaS/EwkacWANOCqzNKQIaC1TYUkrYv3CdZd80rffo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 19:37:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/backgrounds/aisle_chairs_bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\backgrounds\aisle_chairs_bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r/JA4//FvtzYa5iOgHB6HPpgqFNvcylkcTFZIxh2UG8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"42861"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r/JA4//FvtzYa5iOgHB6HPpgqFNvcylkcTFZIxh2UG8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/backgrounds/aisle_chairs_bg.x46xkb13o0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\backgrounds\aisle_chairs_bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x46xkb13o0"},{"Name":"integrity","Value":"sha256-r/JA4//FvtzYa5iOgHB6HPpgqFNvcylkcTFZIxh2UG8="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/backgrounds/aisle_chairs_bg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42861"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r/JA4//FvtzYa5iOgHB6HPpgqFNvcylkcTFZIxh2UG8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/backgrounds/flower_arch_bg.h85wuigjbf.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\backgrounds\flower_arch_bg.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h85wuigjbf"},{"Name":"integrity","Value":"sha256-gQiukrsnUc8JT/K1K0qTazjPC/KTMep8a9onc8jXUfs="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/backgrounds/flower_arch_bg.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1248248"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022gQiukrsnUc8JT/K1K0qTazjPC/KTMep8a9onc8jXUfs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/backgrounds/flower_arch_bg.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\backgrounds\flower_arch_bg.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gQiukrsnUc8JT/K1K0qTazjPC/KTMep8a9onc8jXUfs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1248248"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022gQiukrsnUc8JT/K1K0qTazjPC/KTMep8a9onc8jXUfs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/01.4x3g7p571x.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\01.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -335,6 +359,150 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KA2DoR51ys\u002BwrZ//Y\u002BrJn7OodMUJIxJuCgKjdX64OvQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2500"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KA2DoR51ys\u002BwrZ//Y\u002BrJn7OodMUJIxJuCgKjdX64OvQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 19:37:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/arch.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\arch.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CnBrAK5WaSlubAZYTeL9xqDfTG67eh0NYLN6KCd/pKk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1311013"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CnBrAK5WaSlubAZYTeL9xqDfTG67eh0NYLN6KCd/pKk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/arch.ymx3flo1x0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\arch.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ymx3flo1x0"},{"Name":"integrity","Value":"sha256-CnBrAK5WaSlubAZYTeL9xqDfTG67eh0NYLN6KCd/pKk="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/decor/arch.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1311013"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CnBrAK5WaSlubAZYTeL9xqDfTG67eh0NYLN6KCd/pKk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/candlestick.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\candlestick.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BY0Ay6AbpF5OD1RF\u002BHAJ3KXLTpxvaSM169k4SW5YWT0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1260775"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BY0Ay6AbpF5OD1RF\u002BHAJ3KXLTpxvaSM169k4SW5YWT0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/candlestick.x6gctpnwsm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\candlestick.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x6gctpnwsm"},{"Name":"integrity","Value":"sha256-\u002BY0Ay6AbpF5OD1RF\u002BHAJ3KXLTpxvaSM169k4SW5YWT0="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/decor/candlestick.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1260775"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BY0Ay6AbpF5OD1RF\u002BHAJ3KXLTpxvaSM169k4SW5YWT0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/edison_lights.o00t1qizhy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\edison_lights.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o00t1qizhy"},{"Name":"integrity","Value":"sha256-qDGCdOJLaoC2uxi/dKXkc0Y4mhCEzaw7mseJeuZaLMk="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/decor/edison_lights.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1297483"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qDGCdOJLaoC2uxi/dKXkc0Y4mhCEzaw7mseJeuZaLMk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/edison_lights.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\edison_lights.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qDGCdOJLaoC2uxi/dKXkc0Y4mhCEzaw7mseJeuZaLMk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1297483"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qDGCdOJLaoC2uxi/dKXkc0Y4mhCEzaw7mseJeuZaLMk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/flower_bouquet.0k6o0jfxlm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\flower_bouquet.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0k6o0jfxlm"},{"Name":"integrity","Value":"sha256-MJNAOSOu0eIYQ1JzSxbdadKDU2r9VN4br54nUMdLAXg="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/decor/flower_bouquet.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1263281"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022MJNAOSOu0eIYQ1JzSxbdadKDU2r9VN4br54nUMdLAXg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/flower_bouquet.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\flower_bouquet.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MJNAOSOu0eIYQ1JzSxbdadKDU2r9VN4br54nUMdLAXg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1263281"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022MJNAOSOu0eIYQ1JzSxbdadKDU2r9VN4br54nUMdLAXg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/mason_jars.3fktv8ioj5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\mason_jars.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3fktv8ioj5"},{"Name":"integrity","Value":"sha256-n8tAakpCDUgIEOWT0fpkuNpDGvz\u002BtIax7CvrbAJebtQ="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/decor/mason_jars.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1164009"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022n8tAakpCDUgIEOWT0fpkuNpDGvz\u002BtIax7CvrbAJebtQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/mason_jars.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\mason_jars.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-n8tAakpCDUgIEOWT0fpkuNpDGvz\u002BtIax7CvrbAJebtQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1164009"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022n8tAakpCDUgIEOWT0fpkuNpDGvz\u002BtIax7CvrbAJebtQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/mr_mrs_chair.erdo12vpix.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\mr_mrs_chair.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"erdo12vpix"},{"Name":"integrity","Value":"sha256-qnTtsmVgJ8hiSdF8YOoAynsdFJT8r7DNkFVcR39jVEc="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/decor/mr_mrs_chair.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1335072"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qnTtsmVgJ8hiSdF8YOoAynsdFJT8r7DNkFVcR39jVEc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/decor/mr_mrs_chair.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\decor\mr_mrs_chair.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qnTtsmVgJ8hiSdF8YOoAynsdFJT8r7DNkFVcR39jVEc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1335072"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qnTtsmVgJ8hiSdF8YOoAynsdFJT8r7DNkFVcR39jVEc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/dress/dress_1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\dress\dress_1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mk\u002BnFbp9FRdxkXSh/ci7N4LcdFYK9ygFNJnG1W7KFaE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1160454"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mk\u002BnFbp9FRdxkXSh/ci7N4LcdFYK9ygFNJnG1W7KFaE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/dress/dress_1.yukcbkm5hz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\dress\dress_1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yukcbkm5hz"},{"Name":"integrity","Value":"sha256-mk\u002BnFbp9FRdxkXSh/ci7N4LcdFYK9ygFNJnG1W7KFaE="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/dress/dress_1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1160454"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mk\u002BnFbp9FRdxkXSh/ci7N4LcdFYK9ygFNJnG1W7KFaE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/dress/dress_2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\dress\dress_2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3Qo7Geeimt5MxldtA4S8KmvrexEZ0SrRIW3DUxbXwlc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"921628"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223Qo7Geeimt5MxldtA4S8KmvrexEZ0SrRIW3DUxbXwlc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/dress/dress_2.t4zgpn8cit.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\dress\dress_2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t4zgpn8cit"},{"Name":"integrity","Value":"sha256-3Qo7Geeimt5MxldtA4S8KmvrexEZ0SrRIW3DUxbXwlc="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/dress/dress_2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"921628"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223Qo7Geeimt5MxldtA4S8KmvrexEZ0SrRIW3DUxbXwlc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/dress/dress_3.nwtbacrbm6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\dress\dress_3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nwtbacrbm6"},{"Name":"integrity","Value":"sha256-2SmGG\u002BWeVOGrFxHUaR8\u002B7k7wLp9faIcVRE0RLhYqNT0="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/dress/dress_3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"812039"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222SmGG\u002BWeVOGrFxHUaR8\u002B7k7wLp9faIcVRE0RLhYqNT0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/dress/dress_3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\dress\dress_3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2SmGG\u002BWeVOGrFxHUaR8\u002B7k7wLp9faIcVRE0RLhYqNT0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"812039"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222SmGG\u002BWeVOGrFxHUaR8\u002B7k7wLp9faIcVRE0RLhYqNT0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/venue/venue_1.p2eyf4dl8u.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\venue\venue_1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p2eyf4dl8u"},{"Name":"integrity","Value":"sha256-P3Xtx3Fl9b/zTnjjusbOKinw1QnIHxjnllbxu55HhDM="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/venue/venue_1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1632696"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022P3Xtx3Fl9b/zTnjjusbOKinw1QnIHxjnllbxu55HhDM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/venue/venue_1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\venue\venue_1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P3Xtx3Fl9b/zTnjjusbOKinw1QnIHxjnllbxu55HhDM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1632696"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022P3Xtx3Fl9b/zTnjjusbOKinw1QnIHxjnllbxu55HhDM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/venue/venue_2.0x56z3x8kd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\venue\venue_2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0x56z3x8kd"},{"Name":"integrity","Value":"sha256-jJ3/036xLWzb5nP3nZaTLUiiTXrKapKN31JiEYq7\u002BRA="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/venue/venue_2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1534007"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jJ3/036xLWzb5nP3nZaTLUiiTXrKapKN31JiEYq7\u002BRA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/venue/venue_2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\venue\venue_2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jJ3/036xLWzb5nP3nZaTLUiiTXrKapKN31JiEYq7\u002BRA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1534007"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jJ3/036xLWzb5nP3nZaTLUiiTXrKapKN31JiEYq7\u002BRA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/venue/venue_3.42ij6spljy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\venue\venue_3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"42ij6spljy"},{"Name":"integrity","Value":"sha256-LGjwS0SZ7oZwid6TpDWyCGXB6zIinb1ar6sGioHDwG8="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/gallery/venue/venue_3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1412328"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022LGjwS0SZ7oZwid6TpDWyCGXB6zIinb1ar6sGioHDwG8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/gallery/venue/venue_3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\gallery\venue\venue_3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LGjwS0SZ7oZwid6TpDWyCGXB6zIinb1ar6sGioHDwG8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1412328"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022LGjwS0SZ7oZwid6TpDWyCGXB6zIinb1ar6sGioHDwG8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/imgl.f4vektggco.gif">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\imgl.gif'))</AssetFile>
@@ -359,6 +527,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PvM7Ktx\u002BeBu9SMhBNNMcGG5E4Rdo9wM5ZYqlDdWrbR0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1178"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022PvM7Ktx\u002BeBu9SMhBNNMcGG5E4Rdo9wM5ZYqlDdWrbR0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 19:37:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/testimonial_1.pj1prv80bv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\testimonial_1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pj1prv80bv"},{"Name":"integrity","Value":"sha256-FSuvdXT5oTM0VFJdRycR9RpPNAX6wFM8rWP\u002BRh3a7xI="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/testimonial_1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"587809"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FSuvdXT5oTM0VFJdRycR9RpPNAX6wFM8rWP\u002BRh3a7xI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/testimonial_1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\testimonial_1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FSuvdXT5oTM0VFJdRycR9RpPNAX6wFM8rWP\u002BRh3a7xI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"587809"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FSuvdXT5oTM0VFJdRycR9RpPNAX6wFM8rWP\u002BRh3a7xI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/testimonial_2.16jw13rnr5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\testimonial_2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"16jw13rnr5"},{"Name":"integrity","Value":"sha256-99mh\u002BM5Usb/U6kenfrimpW5ph5cShWYcIKJF2WW/Zhc="},{"Name":"label","Value":"_content/MarryMeMarket/images/demo/testimonial_2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"532950"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002299mh\u002BM5Usb/U6kenfrimpW5ph5cShWYcIKJF2WW/Zhc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarryMeMarket/images/demo/testimonial_2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\demo\testimonial_2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-99mh\u002BM5Usb/U6kenfrimpW5ph5cShWYcIKJF2WW/Zhc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"532950"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002299mh\u002BM5Usb/U6kenfrimpW5ph5cShWYcIKJF2WW/Zhc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 16:17:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MarryMeMarket/js/jquery.backtotop.cspkjbt2lj.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.backtotop.js'))</AssetFile>
